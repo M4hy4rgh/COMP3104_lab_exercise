@@ -4,7 +4,8 @@
   "description": "This is my practice in coruse DEVOPS.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
   },
   "keywords": ["devops","nodejs","express","express"],
   "author": "Mahyar Ghasemi Khah - 101399392",
