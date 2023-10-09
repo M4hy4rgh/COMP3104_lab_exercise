@@ -4,9 +4,9 @@
   "description": "This is my practice in coruse DEVOPS.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["devops","nodejs","express","express"],
+  "author": "Mahyar Ghasemi Khah - 101399392",
   "license": "ISC"
 }
