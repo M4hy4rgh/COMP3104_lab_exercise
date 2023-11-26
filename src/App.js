@@ -3,7 +3,9 @@
 
 function App() {
   return (
-   <h1>Welcome to Devops exercise - Mahyar Ghasemi Khah, 101399392</h1>
+    <div>
+      <h1>Welcome to Devops exercise - Mahyar Ghasemi Khah, 101399392</h1>
+    </div>
   );
 }
 
