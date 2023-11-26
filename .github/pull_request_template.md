@@ -10,9 +10,9 @@ Additional implementation details if you want the reviewer to be aware of before
 Instructions for testing this fix.
 
  ### Checklist before merge
-- [] Rebased with base branch
-- [] CI passed
-- [] Code quality passed
-- [] Have 10 commints
-- [] Have 3 files with valid name
-- [] Approved by peers
+- [ ] Rebased with base branch
+- [ ] CI passed
+- [ ] Code quality passed
+- [ ] Have 10 commints
+- [ ] Have 3 files with valid name
+- [ ] Approved by peers
